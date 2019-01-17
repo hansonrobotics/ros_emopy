@@ -1,3 +1,4 @@
+# Copyright (c) 2017 Hanson Robotics, Ltd. 
 import os
 import time
 import datetime as dt
